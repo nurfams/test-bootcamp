@@ -10,3 +10,8 @@ Cara Menjalankan Aplikasi
 - Buka XAMPP Control Panel lalu jalanakan Module Apache dan MySQL
 - Buka C:\xampp\htdocs\ <- Copy paste kan file test-bootcamp disini
 - buka di browser URL http://localhost/test-dumbways/
+- lalu buka http://localhost/phpmyadmin
+- create database berita_digital lalu import file sql berita_digital.sql
+
+04 0ctober 2020 
+- SQL Database lupa dimasukin
